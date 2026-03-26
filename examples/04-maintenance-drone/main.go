@@ -19,7 +19,7 @@ import (
 // Drone-Beta or Drone-Gamma instantly. No cleaning cycle can be missed.
 
 func main() {
-	fmt.Println("🛰️  ROBOTICS FLEET COORDINATOR 🛰️")
+	fmt.Println("  ROBOTICS FLEET COORDINATOR ")
 	fmt.Println("Case Study: Autonomous Factory Maintenance")
 	fmt.Println("------------------------------------------")
 
@@ -51,7 +51,7 @@ func main() {
 		}
 	}
 
-	fmt.Println("\n💡 WHY THIS MATTERS TO A COMPANY:")
+	fmt.Println("\n WHY THIS MATTERS TO A COMPANY:")
 	fmt.Println("This proves Hustler can manage 'Stateful Schedules' across moving hardware.")
 	fmt.Println("Even if the drone that took the request crashes, the 'Log Replication' ensures")
 	fmt.Println("the factory never misses a cleaning cycle. Reliability = Zero Downtime.")

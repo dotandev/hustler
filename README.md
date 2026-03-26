@@ -79,17 +79,17 @@ Hustler is a high-performance distributed task scheduler built on a custom, batt
 
 ---
 
-## 📚 Examples: Seeing the Hustle in Action
+##  Examples: Seeing the Hustle in Action
 
 Hustler is designed for everything from simple tasking to mission-critical distributed scheduling. Check out the [examples](./examples) folder:
 
 | Example | Complexity | Description |
 | :--- | :--- | :--- |
-| [**01-Basic-Alarm**](./examples/01-basic-alarm/main.go) | 🟢 Simple | A single-node client scheduling a "Wake Up" message. |
-| [**02-Distributed-Batch**](./examples/02-distributed-batch/main.go) | 🟡 Medium | Scheduling multiple regional deals simultaneously with leader-discovery. |
-| [**03-Failover-Demo**](./examples/03-failover-demo/main.go) | 🟠 Advanced | A tour of how Hustler survives when the top Closer vanishes. |
-| [**04-Maintenance-Drone**](./examples/04-maintenance-drone/main.go) | 🔴 Professional | Coordinating high-availability maintenance for robotics fleets. |
-| [**05-Settlement-Reconciler**](./examples/05-settlement-reconciler/main.go) | 🔴 Professional | High-durability settlement windows for fintech and banking. |
+| [**01-Basic-Alarm**](./examples/01-basic-alarm/main.go) |  Simple | A single-node client scheduling a "Wake Up" message. |
+| [**02-Distributed-Batch**](./examples/02-distributed-batch/main.go) |  Medium | Scheduling multiple regional deals simultaneously with leader-discovery. |
+| [**03-Failover-Demo**](./examples/03-failover-demo/main.go) |  Advanced | A tour of how Hustler survives when the top Closer vanishes. |
+| [**04-Maintenance-Drone**](./examples/04-maintenance-drone/main.go) |  Professional | Coordinating high-availability maintenance for robotics fleets. |
+| [**05-Settlement-Reconciler**](./examples/05-settlement-reconciler/main.go) |  Professional | High-durability settlement windows for fintech and banking. |
 
 ### How to run an example
 1. Start the crew: `./demo.sh`

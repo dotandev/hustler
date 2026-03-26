@@ -20,7 +20,7 @@ import (
 // at least, thT'S my theory.
 
 func main() {
-	fmt.Println("💰 FINTECH SETTLEMENT RECONCILER 💰")
+	fmt.Println(" FINTECH SETTLEMENT RECONCILER ")
 	fmt.Println("Case Study: High-Value Transaction Persistence")
 
 	cluster := []string{"localhost:50051", "localhost:50052", "localhost:50053"}
